@@ -12,9 +12,12 @@ nav a {
 }
 
 .popular {
-    background-color: green;
+    background-color: white;
     color: royalblue;
 }
+
+header {
+    background-color: green;
 }
 
 header img {
@@ -56,16 +59,6 @@ p img {
     background-color: navy;
     color: white;
 }
-
-footer {
-    background-color: HotPink;
-    padding: 10px;
-}
-
-footer p {
-    background-color: white;
-    padding: 5px;
-}
 nav a {
     font-size: 20px;
     text-decoration: none;
@@ -78,6 +71,16 @@ nav a {
 .popular {
     background-color: white;
     color: royalblue;
+}
+
+footer {
+    background-color: HotPink;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
 }
 
 header {
