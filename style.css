@@ -5,11 +5,9 @@ body {
 header {
     background-color: green;
     padding: 5px;
-}
-
-.logo{
-    width: 209px;
-    height: 167px;
+    width: 156px;
+     height: 30%;
+    
 }
 
 nav a {
@@ -31,10 +29,6 @@ nav a {
     height: 30%;
 }
 
-header {
-    background-color: green;
-}
-
 nav a {
     font-size: 20px;
     text-decoration: none;
@@ -47,9 +41,13 @@ nav a {
 footer {
     background-color: HotPink;
     padding: 10px;
+    width: 100%;
+    height: 30%;
 }
 
 footer p {
     background-color: white;
     padding: 5px;
+    width: 100%;
+    height: 30%;
 }
