@@ -5,9 +5,11 @@ body {
 header {
     background-color: green;
     padding: 5px;
+}
+
+header img }
     width: 156px;
-     height: 30%;
-    
+    height: 30px;    
 }
 
 nav a {
